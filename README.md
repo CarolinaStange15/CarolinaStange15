@@ -1,4 +1,4 @@
-### Olá 
+### Olá, visitante! Beem vindo ao meu portifólio!
 
 <!--
 **CarolinaStange15/CarolinaStange15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

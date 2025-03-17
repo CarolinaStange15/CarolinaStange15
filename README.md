@@ -1,4 +1,4 @@
-### Olá, visitante! Bem vindo ao meu portifólio!
+### Olá, visitante! Portifólio em processo de construção...Não repare a bagunça...
 
 <!--
 **CarolinaStange15/CarolinaStange15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
